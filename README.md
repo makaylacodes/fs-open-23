@@ -1,4 +1,4 @@
-# University of Helsinki - Full Stack Open - 2021/22
+# University of Helsinki - Full Stack Open - 2023
 
 ### About the course
 
